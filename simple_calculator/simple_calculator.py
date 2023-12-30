@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
-# simple_calculator: User input of two numbers and the operator convert the strings into integer.
+"""simple_calculator: User input of two numbers and the operator convert the strings into integer.
+"""
 
 
 num1, operator, num2 = input("Enter Calculation: ").split()
