@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+"""Password Generator"""
+
 import random
 import string
 
